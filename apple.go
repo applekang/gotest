@@ -1,5 +1,5 @@
 package gotest
 
 func HelloTest() string {
-	return "Hello test2"
+	return "Hello test3"
 }
